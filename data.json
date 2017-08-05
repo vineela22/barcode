@@ -1,0 +1,52 @@
+[
+	{
+		"id": "8902519001207",
+		"item": "Classmate Exercise Book",
+		"description": "160 pages",
+		"price": 65 
+	},
+	{
+		"id": "X000FWZRU9",
+		"item": "BSC-101 STAR",
+		"description": "Advanced High Speed CCD Scanner",
+		"price": 2499
+	},
+	{
+		"id": "8901324005820",
+		"item": "Apsara",
+		"description": "White Dustless Chalks",
+		"price": 20
+	},
+	{
+		"id": "20179484",
+		"item": "RFID Reader",
+		"description": "Reader with USB connection",
+		"price": 499
+	},
+	{
+		"id": "9780070495432",
+		"item": "The Complete Reference Java 2 Fifth edition",
+		"description": "Herbert Schildt, TATA McGRAW HILL",
+		"price": 340
+	},
+	{
+		"id": "8901725131340",
+		"item": "Sunfeast Farmlite Digestive",
+		"description": "Made from AASHIRVAAD Atta",
+		"price": 25
+	},
+	{
+	"id":"316126511079",
+	"item":"vineela",
+	"description":"it",
+	"price":"56789890564"
+	},
+	{
+	"id":"316126511066",
+	"item":"praneetha",
+	"description":"it",
+	"price":"234167845367"
+	}
+]
+
+
